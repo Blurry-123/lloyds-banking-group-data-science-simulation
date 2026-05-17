@@ -1,0 +1,4 @@
+CustomerID,Age,TotalSpent,AverageSpent,TransactionCount,ServiceInteractionCount,AverageLoginFrequency,ChurnStatus,Gender_M,MaritalStatus_Married,MaritalStatus_Single,MaritalStatus_Widowed,IncomeLevel_Low,IncomeLevel_Medium
+1,62,416.5,416.5,1,1.0,34.0,0,True,False,True,False,True,False
+2,65,1547.4199999999998,221.05999999999997,7,1.0,5.0,1,True,True,False,False,True,False
+3,18,1702.98,283.83,6,1.0,3.0,0,True,False,True,False,True,False
